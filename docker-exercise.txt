@@ -1,0 +1,6 @@
+exersice:
+
+1-write a docker file to run a .net application from scratch.
+2-embed unit tests run inside the dockerFile
+3-create new user and group inside docker file
+4-run a bash script inside docker container as a new user already created
